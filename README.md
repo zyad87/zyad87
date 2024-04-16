@@ -10,19 +10,13 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">About me</h2>
 
 ###
 
 <p align="left">✨ Crafting digital solutions since my earliest coding days 🚀<br><br>📚 Continuously expanding my knowledge in  Information Systems, Front-End Development, and beyond.<br><br>🎯 Goals: To innovate and lead in the tech industry, leveraging my skills to create impactful solutions and inspire others.<br><br>🎲 Fun fact: I'm a cinephile 🎬 and a die-hard football fan ⚽️.</p>
-
-###
-
-<div align="center">
-  <a href="https://api.whatsapp.com/send/?phone=966551262599&text&type=phone_number&app_absent=0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="whatsapp logo"  />
-  </a>
-</div>
 
 ###
 
