@@ -18,6 +18,9 @@
 
 <p align="left">✨ Crafting digital solutions since my earliest coding days 🚀<br><br>📚 Continuously expanding my knowledge in  Information Systems, Front-End Development, and beyond.<br><br>🎯 Goals: To innovate and lead in the tech industry, leveraging my skills to create impactful solutions and inspire others.<br><br>🎲 Fun fact: I'm a cinephile 🎬 and a die-hard football fan ⚽️.</p>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=zyad87&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 ###
 
 <h2 align="left">Programming Languages</h2>
@@ -85,10 +88,3 @@
 
 ###
 
-<h3 align="left">My Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=zyad87&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
